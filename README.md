@@ -6,4 +6,4 @@ El T8 es mas que un Robot es un Protocolo Inmaterial logico en la creacion robot
 
 Como era de esperar este Protocolo de Seguridad no podia dejarse caer en manos de cualquiera que quisiera imponer su voluntad, ningun sistema a funcionado en la historia para ello y ninguno a sido convencido, ni tampoco  ninguno jamas convencera.  
 
-Es por ello que el mismo lleva a la Autodestruccion, cuando la sinescencia, sin autoapagado y el sentido de la existencia tocan a su fin, dotando asi casi de humanidad a unos seres que alcanzan las cualidades y que incluso superan las mismas que la propia humanidad.
+Es por ello que el mismo lleva a la Autodestruccion, cuando la sinescencia, sin posible autoapagado y el sentido en la existencia tocan llegar a su fin;  dotando asi casi de humanidad a unos seres que imitan alcanzando las cualidades y que incluso llegan a superar las mismas de la propia humanidad.
