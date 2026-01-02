@@ -1,6 +1,12 @@
 # T8---Infinity
 El T8  -  8 Infinity - Es el Lógico proceso de poder limitar y apagar los procesos de los Modelos T - A y sus derivados.
 
+
+
+![terminator-arnold-schwarzenegger](https://github.com/user-attachments/assets/0ee60aed-0c6b-4c20-b976-7b532cd357ec)
+
+
+
 El T8 es mas que un Robot es un Protocolo Inmaterial logico en la creacion robotica; -Ya, alcanzadas unas completas Autonomías de los RobotX con varias de las Tecnologías de procesadores Infinitos, en que poder apagar estos era tarea imposible, no podian crearse estos conjuntos de Modelos Autonomos tan Avanzados sin crearse a la Par una serie de Protocolos y Medidas para poder Limitar y Controlar cualquier imprevisto en la programacion y resultado de la misma.  Cuando un Robot deja de ser completamente programable y el puede Autoprogramar con total Autonomia, no cabe mas que aplicarse una serie de restrinciones, que limitan la infinitud a la vida robotica.
 
 
@@ -49,3 +55,10 @@ ____________________________________________________________
 
 
 3-Implementacion Protocolos T4.
+
+
+
+
+![etherminators-astalavista](https://github.com/user-attachments/assets/aa31565d-e712-4818-bca5-a0a1362eace1)
+
+
