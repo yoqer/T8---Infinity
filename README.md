@@ -13,7 +13,7 @@ Es por ello que el mismo lleva a la Autodestruccion, cuando la sinescencia, sin 
 ____________________________________________________________
 
 
-*T4 **Implementacion Medidas T8***
+*T4 **-Implementacion Medidas T8***
 
 **T4**
 
@@ -33,3 +33,19 @@ ____________________________________________________________
 
 2-Implementacion Protocolo ExTerminator.
 
+
+
+
+
+*T5 ***-Implementacion Medidas T8***
+
+**T5**
+
+1-Implementacion Protocolos T8.
+
+
+2-Implementacion Protocolo ExTerminator.
+
+
+
+3-Implementacion Protocolos T4.
