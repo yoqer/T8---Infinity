@@ -30,11 +30,14 @@ ____________________________________________________________
 **T4**
 
 
+
 **T4 WarNet Project**
 
 1-Implementacion Protocolos T8. ✓
 
 2-Implementacion Protocolo ExTerminator. × (Protocolo sustitutivo de aislado de comunicación en Base Gateway T4)
+
+
 
 
 
@@ -44,6 +47,33 @@ ____________________________________________________________
 
 
 2-Implementacion Protocolo ExTerminator.
+
+
+
+
+
+**T4 WarNet Land**
+
+1-Implementacion Protocolos T8.
+
+
+2-Implementacion Protocolo ExTerminator.
+
+
+
+
+
+**T4 WarNet Water**
+
+1-Implementacion Protocolos T8.
+
+
+2-Implementacion Protocolo ExTerminator.
+
+
+
+
+
 
 
 ____________________________________________________________
